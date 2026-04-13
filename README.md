@@ -153,7 +153,7 @@ This project demonstrates a complete DevOps workflow using Jenkins, Docker, and 
 
 ## 👨‍💻 Author
 
-Your Name: __________
-GitHub: https://github.com/your-username
+Your Name: Nitisha Manglik
+GitHub: https://github.com/Niti9331
 
 ---
